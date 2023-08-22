@@ -1,16 +1,34 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wilian Holanda
+======================================================================================================================================
 
-<!--
-**Eziliun/Eziliun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer and UI/UX Designer
+--------------------------------
 
-Here are some ideas to get you started:
+🌐 About Me: I've been on an incredible journey in the world of programming for the past 2 years, and what a ride it's been! My passion for web development and design ignited early on, driving me to specialize in the captivating realm of Front-End development. However, don't be surprised to find me comfortably navigating the Back-End waters using Java and Python when the need arises. 📚 Education: Currently, I'm pursuing my studies at UNIFOR (College), where I'm diving deep into the world of System Analysis and Development. This academic voyage has not only equipped me with a strong theoretical foundation but also given me the invaluable opportunity to bring these theories to life through practical projects. 💼 Professional Journey: As I embark on my professional journey, I find myself donning the hat of an intern, passionately honing my skills and expertise. Angular, TypeScript, and Python have become my closest companions in this endeavor. These tools enable me to craft robust and innovative solutions that push the boundaries of what's possible. However, my toolkit doesn't stop there – I've also gained valuable experience working with Vue, Java, C#, and JavaScript, each adding a unique layer to my development prowess. 🎨 Design Sensibilities: But wait, there's more! Alongside my coding adventures, I've dabbled extensively in UI/UX design. This dynamic skill set allows me to bridge the gap between aesthetics and functionality, crafting user experiences that are not only visually appealing but also intuitive and efficient. 🚀 What to Expect Here: Within this repository, you'll find a culmination of my growth, learning, and creative expression. From web applications that spring to life with Angular's magic to projects that harness the power of Python, this space is a testament to my dedication to the craft. 🌟 Let's Connect: I'm not just about code and pixels – I'm about forging connections too! So, whether you're here to collaborate, learn, or simply geek out about the latest in the tech world, I'm here for it. Feel free to reach out, contribute, or simply explore the world I've crafted one commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Fortaleza, Ceará
+*   ✉️  You can contact me at [WilianDeveloper@hotmail.com](mailto:WilianDeveloper@hotmail.com)
+*   🧠  I'm learning Angular and Python### Skills 
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/Eziliun" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/wilian-dimitri" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Eziliun"><img src="https://github-readme-stats.vercel.app/api?username=Eziliun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eziliun's GitHub stats" /></a>
