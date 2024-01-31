@@ -1,14 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wilian Holanda
-======================================================================================================================================
+### Olá, Eu sou Wilian Dimitri 😄
 
-Web Developer and UI/UX Designer
---------------------------------
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilian-dimitri/)
 
-I've been on an incredible journey in the world of programming for the past 2 years, and what a ride it's been! My passion for web development and design ignited early on, driving me to specialize in the captivating realm of Front-End development. However, don't be surprised to find me comfortably navigating the Back-End waters using Java and Python when the need arises. 📚 Education: Currently, I'm pursuing my studies at UNIFOR (College), where I'm diving deep into the world of System Analysis and Development. This academic voyage has not only equipped me with a strong theoretical foundation but also given me the invaluable opportunity to bring these theories to life through practical projects. 
-I find myself donning the hat of an intern, passionately honing my skills and expertise. Angular, TypeScript, and Python have become my closest companions in this endeavor. These tools enable me to craft Softwares for my company and Web Pages. However, my toolkit doesn't stop there – I've also gained valuable experience working with Vue, Java, C#, and JavaScript, each adding a unique layer to my development prowess. 
-I've dabbled extensively in UI/UX design. This dynamic skill set allows me to bridge the gap between aesthetics and functionality, crafting user experiences that are not only visually appealing but also intuitive and efficient. 🚀 What to Expect Here: Within this repository, you'll find a culmination of my growth, learning, and creative expression. From web applications that spring to life with Angular's magic to projects that harness the power of Python, this space is a testament to my dedication to the craft. 
+### Sou um Desenvolvedor de Software e UI/UX Designer dedicado especializado no Front-End. Com foco em unir criatividade com precisão técnica, destaco-me na criação de interfaces atraentes, intuitivas e perfomáticas. 
 
+### Sempre busco me aperfeiçoar e aprender tecnologias novas para poder aprimorar meu trabalho.
 
-*   🌍  I'm based in Fortaleza, Ceará
-*   ✉️  You can contact me at [WilianDeveloper@hotmail.com](mailto:WilianDeveloper@hotmail.com)
-*   🧠  I'm learning Angular and Python Skills 
+![Wilian GitHub stats](https://github-readme-stats.vercel.app/api?username=Eziliun&show_icons=true&theme=radical)
+
+### Minhas Principais Tecnologias são:
+
+<div style="display: inline_block"> 
+<br/>
+
+<img align="center" alt="ts" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
