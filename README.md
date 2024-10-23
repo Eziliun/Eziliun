@@ -1,24 +1,43 @@
-### Olá, Eu sou Wilian Dimitri 😄
+<h2 align="left">Hi 👋! I'm Wilian</h2>
+
+###
+
+<p align="left">I am a FullStack Developer and UI/UX Designer. With a focus on blending creativity with technical precision, I excel in creating attractive, intuitive, and high-performance interfaces.</p>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilian-dimitri/)
 
-### Sou um Desenvolvedor de Software e UI/UX Designer. Com foco em unir criatividade com precisão técnica, destaco-me na criação de interfaces atraentes, intuitivas e perfomáticas. 
 
-### Sempre busco me aperfeiçoar e aprender tecnologias novas para poder aprimorar meu trabalho.
+###
 
-![Wilian GitHub stats](https://github-readme-stats.vercel.app/api?username=Eziliun&show_icons=true&theme=radical)
-
-### Minhas Principais Tecnologias são:
-
-<div style="display: inline_block"> 
-<br/>
-
-<img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eziliun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eziliun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eziliun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="py logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img width="12" />
+</div>
+
+###
