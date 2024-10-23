@@ -17,26 +17,26 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vue logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="ts logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="py logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="py logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
   <img width="12" />
 </div>
 
